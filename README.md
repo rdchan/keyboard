@@ -10,6 +10,7 @@ I finally got around to fixing the oled connections. I like seeing what the comm
 ![Custom Logo](/images/triplelogo.bmp)
 
 Here's what it looks like on the keeb
+
 ![Triple Logo](/images/lefthalf.jpg)
 
 First update was adding an encoder to the default keymap. I used the chuan keymap files for reference and liked the PageUp and PageDown features. They integrate nicely with firefox (hold ctrl and use encoder to scroll through tabs!). 
