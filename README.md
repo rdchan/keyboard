@@ -5,7 +5,7 @@ qmk files and such for my lily58
 # updates
 
 Custom OLED Display!
-I finally got around to fixing the oled connections. I like seeing what the community is doing with their oled screens, but I'm perfectly content with just static images. My philosophy is that my eyes should be on my monitors, not looking down at my keyboard for information. The screens are just for the cool factor for me. That being said, I like the lily58 logo, but don't really care to print out what layer is active. So I put some other logos that I think are neat. Used high resolution images as a template and traced them in GIMP to then generate a bmp. I used [Joric's QMK Logo Editor](joric.github.io/qle) to help convert from the bmp to hex that I could put in the firmware. I like the vertical look better, but haven't checked if it correctly rotates on auto-detection of primary/secondary half.
+I finally got around to fixing the oled connections. I like seeing what the community is doing with their oled screens, but I'm perfectly content with just static images. My philosophy is that my eyes should be on my monitors, not looking down at my keyboard for information. The screens are just for the cool factor for me. That being said, I like the lily58 logo, but don't really care to print out what layer is active. So I put some other logos that I think are neat. Used high resolution images as a template and traced them in GIMP to then generate a bmp. I used [Joric's QMK Logo Editor](https://joric.github.io/qle) to help convert from the bmp to hex that I could put in the firmware. I like the vertical look better, but haven't checked if it correctly rotates on auto-detection of primary/secondary half.
 
 ![Custom Logo](/images/triplelogo.bmp)
 
